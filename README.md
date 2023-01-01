@@ -7,8 +7,7 @@
 
 - 📫 How to reach me **guptasiddharth689@gmail.com**
 
-- 📄 Know about my experiences [Resume <img src="[https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg)" width="5" height="5">
-](https://drive.google.com/file/d/1A13o9GgvfDafGx8DV5Qwb1SUZQ7eKag4/view?usp=share_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A13o9GgvfDafGx8DV5Qwb1SUZQ7eKag4/view?usp=share_link) <img src="[https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/crown.svg](https://github.com/FortAwesome/Font-Awesome/blob/6.x/svgs/solid/arrow-up-right-from-square.svg)" width="5" height="5">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
