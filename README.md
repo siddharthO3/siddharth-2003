@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Siddharth</h1>
 <h3 align="center">A passionate frontend and app developer</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Dart, Flutter**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me about **C++, Java**
 
-- 📫 How to reach me **guptasiddharth689@gmail.com**
+- 📫 Reach me out at **guptasiddharth689@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1A13o9GgvfDafGx8DV5Qwb1SUZQ7eKag4/view?usp=share_link) 
+- 📄 Know about my experiences [in my Resume](https://drive.google.com/file/d/1A13o9GgvfDafGx8DV5Qwb1SUZQ7eKag4/view?usp=share_link) 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-gupta-64505b241" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-gupta-64505b241" height="30" width="40" /></a>
