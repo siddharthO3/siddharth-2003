@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **guptasiddharth689@gmail.com**
 
-- 📄 Know about my experiences [in my Resume](https://drive.google.com/file/d/15uq9I1VR-5nNZfgD4f4dbPAhmWnT0mIl/view?usp=sharing)
+- 📄 Know about my experiences [in my Resume](https://drive.google.com/file/d/1r0t9Q-KsSqcvUA-pd2IDqZj0U5pC16Fi/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
